@@ -1,4 +1,4 @@
-.text{
+.text {
   margin-top: 20%;
   text-align: center;
 }
@@ -36,13 +36,13 @@
   bottom: 5%;
 }
 
-span.question{
+.tweetButtons span {
   font-size: 1em;
   font-style: italic;
   font-weight: bold;
 }
 
-button {
+.tweetButtons button {
   font-size: 1em;
   font-weight: bold;
   padding: 10px 25px;
@@ -55,16 +55,16 @@ button {
 }
 
 @media only screen and (max-device-width: 480px) {
-  .text{
+  .text {
     margin-top: 50%;
   }
   .text span{
     font-size: 8em;
   }
-  button {
+  .tweetButtons button {
     font-size: 2.5em;
   }
-  span.question{
+  .tweetButtons span {
     font-size: 2em;
   }
 }
