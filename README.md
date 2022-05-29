@@ -6,7 +6,6 @@ This is the repository of https://kuneku.net/. This site is running on GitHub Pa
 You can make Pull Requents for more KuneKune.
 
 # About Domain
-The owner of kuneku.net is KamoKamo. 
 If you are interested in this domain, plaease contact and KuneKune me.
 
 # References
