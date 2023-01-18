@@ -1,6 +1,8 @@
 # kuneku.net
 Do you KuneKune?
 
+See also: https://kuso.domains/
+
 # About Repository
 This is the repository of https://kuneku.net/. This site is running on GitHub Pages. 
 You can make Pull Requents for more KuneKune.
